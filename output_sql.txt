@@ -1,0 +1,108 @@
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848665	/atg/userprofiling/ProfileAdapterRepository	[++SQLDelete++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848665	/atg/userprofiling/ProfileAdapterRepository	 DELETE FROM sdg_recent_search
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848665	/atg/userprofiling/ProfileAdapterRepository	       WHERE recent_search_id = ?
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848665	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848665	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848665	/atg/userprofiling/ProfileAdapterRepository	[--SQLDelete--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848667	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848667	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848667	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848667	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848667	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848667	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 0 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848667	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} laptop (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848667	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848668	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848668	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848668	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848668	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848668	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848668	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 1 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848668	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} sofas (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848668	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848670	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848670	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848670	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848670	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848670	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848670	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 2 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848670	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} tv (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848670	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848671	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848671	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848671	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848671	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848671	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848671	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 3 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848671	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} washing machines (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848671	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848673	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848673	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848673	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848673	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848673	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848673	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 4 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848673	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} cobalt blue dresses (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848673	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848675	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848675	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848675	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848675	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848675	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848675	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 5 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848675	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} cobalt blue (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848675	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848676	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848676	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848676	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848676	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848676	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848676	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 6 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848676	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} blue dress (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848676	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848677	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848677	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848677	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848677	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848677	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848677	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 7 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848677	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} toys (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848677	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848678	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848678	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848678	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848678	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848678	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848678	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 8 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848678	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} gym (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848678	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848679	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848679	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_recent_search(recent_search_id,seq,search_term)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848679	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848679	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848679	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848679	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 9 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848679	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: searchTerms} iron (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848679	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848686	/atg/userprofiling/ProfileAdapterRepository	[++SQLUpdate++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848686	/atg/userprofiling/ProfileAdapterRepository	 UPDATE sdg_recent_searches
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848686	/atg/userprofiling/ProfileAdapterRepository	    SET last_search_date=?
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848686	/atg/userprofiling/ProfileAdapterRepository	  WHERE id=?
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848686	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848686	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd: lastSearchDate} 2018-11-21 (java.sql.Date)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848686	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 16700001 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848686	/atg/userprofiling/ProfileAdapterRepository	[--SQLUpdate--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848699	/atg/userprofiling/ProfileAdapterRepository	[++SQLDelete++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848699	/atg/userprofiling/ProfileAdapterRepository	 DELETE FROM sdg_user_recent_searches
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848699	/atg/userprofiling/ProfileAdapterRepository	       WHERE user_id = ?
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848699	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848699	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} INT6330627 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848699	/atg/userprofiling/ProfileAdapterRepository	[--SQLDelete--]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848700	/atg/userprofiling/ProfileAdapterRepository	executeUpdate2: [++SQLInsert++]
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848700	/atg/userprofiling/ProfileAdapterRepository	 INSERT INTO sdg_user_recent_searches(user_id,seq,recent_search_id)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848700	/atg/userprofiling/ProfileAdapterRepository	 VALUES(?,?,?)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848700	/atg/userprofiling/ProfileAdapterRepository	-- Parameters --
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848700	/atg/userprofiling/ProfileAdapterRepository	p[1] = {pd} INT6330627 (java.lang.String)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848700	/atg/userprofiling/ProfileAdapterRepository	p[2] = {pd} 0 (java.lang.Integer)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848700	/atg/userprofiling/ProfileAdapterRepository	p[3] = {pd: recentSearches} 16700001 (atg.adapter.gsa.SingleValueGSAId)
+**** debug	Wed Nov 21 15:57:28 +00:00 2018	1542815848700	/atg/userprofiling/ProfileAdapterRepository	[--SQLInsert--]
